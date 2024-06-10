@@ -1,16 +1,19 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <TrabalhoCloudComputing
+    titulo="Trabalho de Cloud Computing & Site Reliability Engineering"
+    aluno="Leonardo Bonn Nogueira Bastos"
+    professor="Gilmar Luiz Vassoler"
+  />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TrabalhoCloudComputing from "./components/TrabalhoCloudComputing.vue"
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
+    TrabalhoCloudComputing,
+  },
 }
 </script>
 
