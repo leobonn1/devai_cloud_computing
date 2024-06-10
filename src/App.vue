@@ -1,6 +1,6 @@
 <template>
   <TrabalhoCloudComputing
-    titulo="Trabalho de Cloud Computing & Site Reliability Engineering"
+    titulo="Cloud Computing & Site Reliability Engineering"
     aluno="Leonardo Bonn Nogueira Bastos"
     professor="Gilmar Luiz Vassoler"
   />
